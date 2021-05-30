@@ -48,7 +48,7 @@ nav button {
 .section-1 .logo {
        display: block;
        margin: 0px auto;
-       margin-top: 1px;
+       margin-top: -500px;
 }
 .s-box {
   width: 580px;
